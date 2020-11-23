@@ -1,2 +1,1 @@
-# custom-fonts-flutter-event-calendar
-How to add custom fonts in the Flutter event calendar (SfCalendar)
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/12101/how-to-add-custom-fonts-in-the-flutter-event-calendar-sfcalendar)**
