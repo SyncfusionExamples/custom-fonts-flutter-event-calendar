@@ -1,4 +1,4 @@
-package com.example.flutter_customfont
+package com.example.custom_fonts
 
 import io.flutter.embedding.android.FlutterActivity
 
